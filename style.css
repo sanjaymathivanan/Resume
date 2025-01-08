@@ -1,10 +1,13 @@
 body{
-    padding: 0;
-    margin: 0;
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
+    margin: auto;
+    padding: 20px;
+    bottom: auto;
     position: fixed;
+
+    
  }
  header{
      text-align: center;
@@ -15,13 +18,30 @@ body{
      display: inline;
      text-align: center;
      float: right;
+     margin-right: 40px;
+     margin-bottom: 20px;
  
  }
  .profile{
      padding: 2%;
-     width: 30;
-     display: inline;
+     display: inline-block;
+     text-align: justify;
+     font-size: large;
+ }
+ .language{
+    text-align: center;
+    list-style-position: inside;
+    text-align: justify;
+    display: inline;
+    float: right;
+    margin-right: 600px;
+    margin-bottom: 20px;
+     
+    
+
+
  
+
  }
  
  

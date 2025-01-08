@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: fixed;
+ }
+ header{
+     text-align: center;
+     background-color:slategrey;
+     color: aqua;
+ }
+ .education{
+     display: inline;
+     text-align: center;
+     float: right;
+ 
+ }
+ .profile{
+     padding: 2%;
+     width: 30;
+     display: inline;
+ 
+ }
+ 
+ 
